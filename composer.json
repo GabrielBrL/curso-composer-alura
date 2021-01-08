@@ -3,7 +3,6 @@
     "name": "gabrielbrl/buscador-site",
     "description": "Projeto que procura cursos num site",
     "type": "library",
-    "license": "Apache",
     "authors": [
         {
             "name": "Gabriel Barros",
@@ -43,5 +42,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda todas verificações existentes até então (PHAN, PHPCS, PHPUNIT)."
-    }
+    },
+    "license": "GPL-3.0"
 }
